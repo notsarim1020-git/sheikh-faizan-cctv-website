@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://www.sheikhfaizancctv.com/sitemap.xml
